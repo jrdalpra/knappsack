@@ -4,7 +4,8 @@ public enum Language {
     ENGLISH("language.english", 1),
     FRENCH("language.french", 2),
     SPANISH("language.spanish", 4),
-    GERMAN("language.german", 3);
+    GERMAN("language.german", 3),
+    PORTUGUESE("language.portuguese",5);
 
     private final String messageKey;
     private final Integer sortOrder;
