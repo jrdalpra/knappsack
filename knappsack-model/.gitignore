@@ -1,7 +1,6 @@
-/*.DS_Store
-/knappsack_opensource_db.log
-/knappsack_opensource_db.properties
-/knappsack_opensource_db.script
+/.settings
+/.classpath
+/.project
 /.settings
 /.settings/.jsdtscope
 /.settings/org.eclipse.core.resources.prefs
@@ -11,5 +10,6 @@
 /.settings/org.eclipse.wst.common.project.facet.core.xml
 /.settings/org.eclipse.wst.jsdt.ui.superType.container
 /.settings/org.eclipse.wst.jsdt.ui.superType.name
-/.classpath
-/.project
+/.settings/org.eclipse.core.resources.prefs
+/.settings/org.eclipse.jdt.core.prefs
+/.settings/org.eclipse.m2e.core.prefs
